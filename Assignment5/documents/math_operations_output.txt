@@ -1,0 +1,5 @@
+Square Root of 25: 5.0
+Factorial of 5: 120
+90 degrees in radians: 1.5707963267948966
+π/2 radians in degrees: 90.0
+Log of 100 (base 10): 2.0

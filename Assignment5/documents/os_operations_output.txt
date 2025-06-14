@@ -1,0 +1,5 @@
+Current working directory: /home/btu/Desktop/Assignment5/scripts
+Created directory 'test_dir'
+Directory contents: ['test_dir', 'os_operations.py']
+Renamed 'test_dir' to 'renamed_dir'
+Deleted directory 'renamed_dir'

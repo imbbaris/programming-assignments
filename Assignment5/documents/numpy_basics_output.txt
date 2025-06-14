@@ -1,0 +1,3 @@
+Addition: [5 7 9]
+Dot Product: 32
+Element-wise Multiplication: [ 4 10 18]

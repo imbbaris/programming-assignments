@@ -1,0 +1,2 @@
+This is the first line written with the '>' operator, which overwrites the file.
+This is the second line written with the '>>' operator, which appends to the file.
